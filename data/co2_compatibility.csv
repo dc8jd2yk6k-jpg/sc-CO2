@@ -1,0 +1,24 @@
+reagent_class,examples,reaction_with_CO2,verdict,how_used_or_replaced_in_this_program
+Alkali metals,Li; Na; K; Cs,reduce CO2 to CO / oxalate / carbonate; carbonate passivation; hazardous when heated,incompatible,replace by molecular donor + alkali salt (I-01) or electrochemistry (I-02)
+Alkaline-earth / rare-earth metals,Ca; Sr; Ba; Eu; Yb,oxide / carbonate formation,incompatible,out of scope for scCO2 routes (e.g. CaC6)
+Solvated electrons,alkali/NH3; alkali/amines,e- reduces CO2; NH3 + CO2 -> ammonium carbamate,incompatible,run NH3 routes first; CO2 used afterwards only on purpose (I-07)
+Organolithium / Grignard,n-BuLi; MeMgBr,carboxylation,incompatible,pre-lithiate outside CO2 if needed (I-04 HfNCl branch)
+Arene radical anions,Li/Na naphthalenide; benzophenone ketyl,carboxylation (E < ~-2.5 V vs Fc),incompatible,use donor ladder above the CO2 reduction limit
+Metal hydrides,LiH; NaBH4; LiAlH4,formate formation,incompatible,
+N-heterocyclic carbenes,IMes; IPr,NHC-CO2 adducts,incompatible,
+Primary / secondary amines and NH3,en; HMDA; MeNH2; NH3,carbamate / ammonium carbamate (reversible on heating / venting),conditional,exploited deliberately in I-07; avoid elsewhere
+Amidines / guanidines,DBU; TMG,with H2O or ROH form bicarbonate / alkylcarbonate salts (CO2-switchable),conditional,only under strictly dry conditions
+Hydroxide / oxide / alkoxide guests,LiOH; (Li;Fe)OH layers; alkoxides,carbonation,incompatible,(Li;Fe)OHFeSe not processed in CO2
+Water,H2O,carbonic acid (pH ~3 at process pressure),conditional,controlled water activity only in I-06; dry everything else to <1 ppm
+Tertiary amines and pyridines,TMEDA; Et3N; DABCO; pyridine; 4-picoline,no carbamate when dry,compatible,co-ligands / co-intercalants
+Ethers / glymes / crown ethers,THF; 2-MeTHF; DME; diglyme; 12-crown-4; 15-crown-5; 18-crown-6,none,compatible,cosolvents and alkali-cation solubilisers
+Polar aprotic solvents,MeCN; acetone; DMF; NMP; DMSO; sulfolane; EC; PC,none (form CO2-expanded liquids),compatible,CXL electrolytes (I-02) and polar co-intercalants (I-03)
+Secondary amides,N-methylformamide,none expected (amide N-H is non-nucleophilic) - verify,compatible (verify),highest-epsilon co-intercalant in I-03
+Alcohols,MeOH; EtOH,alkyl carbonates only with base,compatible,cosolvent for salts (not with strong bases)
+Metallocenes and sandwich complexes,CoCp2; CoCp*2; CrCp*2; FeCp*2; Cr(C6H6)2,none expected (E above CO2 reduction); O2/H2O sensitive,compatible,electron donors / pillaring cations (I-01; I-04; I-06)
+Metal beta-diketonates,Cu(hfac)2; Pd(hfac)2; M(tmhd)n,none; highly CO2-soluble (fluorinated ligands),compatible,chemical fluid deposition of catalyst seeds (I-10)
+Quaternary ammonium / phosphonium salts,TBA+; CTA+; P4444+; PYR14+ with BF4-/PF6-/TFSI-/BArF-,none; poorly soluble in neat CO2,compatible (with cosolvent),electrolytes and cation guests (I-02)
+Fluorous / siloxane surfactants,PFPE carboxylates; fluorinated quats,none; CO2-philic; form microemulsions,compatible,I-11
+Halogens and interhalogens,I2; Br2; IBr; ICl,none; I2 very soluble,compatible (Monel / Hastelloy / PEEK hardware),I-05 (I2 staging) and I-09 acceptor ladder
+Strong oxidants / fluorinating agents,O3; XeF2; dilute F2; NO+ salts,CO2 cannot be oxidised further,compatible as medium (hardware-limited),I-08 and I-09
+Hydrogen,H2,fully miscible; CO2 hydrogenation needs catalyst + base or high T,conditional (T <= 80 C; base-free),I-10

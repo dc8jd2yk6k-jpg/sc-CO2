@@ -1,0 +1,14 @@
+[project]
+name = "scco2-intercalation"
+version = "0.1.0"
+description = "Planning and data-reduction tools for scCO2-assisted intercalation of layered superconductors"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24"]
+
+[project.optional-dependencies]
+eos = ["CoolProp>=6.4"]
+test = ["pytest>=7"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

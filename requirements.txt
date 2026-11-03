@@ -1,0 +1,3 @@
+numpy>=1.24
+CoolProp>=6.4   # optional: reference CO2 EOS and transport (Peng-Robinson fallback otherwise)
+pytest>=7

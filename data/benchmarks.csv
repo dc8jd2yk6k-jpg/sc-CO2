@@ -1,0 +1,39 @@
+family,host,host_Tc_K,modified_system,modified_Tc_K,route,interlayer_or_notes,ref_keys,confidence
+Fe-based,beta-FeSe,8.5-9,FeSe under hydrostatic pressure,~37,~9 GPa (DAC),pressure not intercalation; ceiling for compression of the bare host,R10,high
+Fe-based,beta-FeSe,8.5-9,Lix(NH3)yFe2Se2 (various A=Li/Na/Ca/Sr/Ba/Eu/Yb),30-46,liquid NH3 + metal,d ~8.3 A for Li/NH3; NH3 labile; incompatible with CO2 (carbamate),R3;R4,high
+Fe-based,beta-FeSe,8.5-9,Lix(C5H5N)yFeSe (pyridine),~45,solvothermal Li/pyridine,d > 9 A regime,R5,high
+Fe-based,beta-FeSe,8.5-9,Lix(C2H8N2)yFe2-zSe2 (ethylenediamine),~45,solvothermal Li/en,d ~10.4 A; primary diamine -> carbamate with CO2,R6,high
+Fe-based,beta-FeSe,8.5-9,Lix(HMDA)yFeSe (hexamethylenediamine),~38,solvothermal,d ~16.2 A; evidence Tc falls beyond d ~12 A,R9,medium
+Fe-based,beta-FeSe,8.5-9,(Li1-xFex)OHFeSe,40-43,hydrothermal / ion exchange,d ~9.3 A; >50 K re-emerges at ~12.5 GPa (SC-II); hydroxide layer incompatible with CO2/H2O,R7;R8,high
+Fe-based,beta-FeSe,8.5-9,(TBA)0.3FeSe (tetrabutylammonium),~50 (onset),electrochemical in DMF,current bulk FeSe-intercalate benchmark; muSR: nodeless multigap,R1;R2,high
+Fe-based,beta-FeSe,8.5-9,(CTA)xFeSe / (TMA)xFeSe,~45 / ~43,electrochemical,organic-cation series,R1,medium
+Fe-based,beta-FeSe,8.5-9,HxFeSe (protonated),~41-44,ionic-liquid gating protonation,reported; bulk fraction varies,R15,medium
+Fe-based,beta-FeSe,8.5-9,FeSe flakes Li/ionic gating,~43-48,EDLT / solid ion conductor,thin flakes not bulk,R14,medium
+Fe-based,beta-FeSe,8.5-9,K-dosed FeSe surface,~46-48,surface alkali dosing,surface only,R13,medium
+Fe-based,beta-FeSe,8.5-9,monolayer FeSe/SrTiO3,~60-65 (ARPES gap closing),MBE,interfacial polar-phonon coupling (replica bands); transport Tc lower and debated,R11;R12,high
+Fe-based,AxFe2-ySe2,n/a,KxFe2-ySe2 (high-T solid state),~30-32,melt growth,phase separated,R16,high
+Cuprate,Bi2212,85-95 (doping dependent),IBi2212 / HgI2-Bi2212,slightly reduced to ~unchanged,vapour / solid-state intercalation,Delta d ~3.6 A (I) to ~7 A (HgI2); Tc nearly retained,R17;R18,high
+Cuprate,Bi2212,85-95,organic-HgI2-Bi2212 hybrids,~unchanged,multistep intercalation,d up to several nm; 2D limit with Tc retained,R18,high
+Cuprate,Bi2212,85-95,monolayer Bi2212,~88,exfoliation,2D limit retains bulk-like Tc,R63,high
+Cuprate,Bi2223,~110,Bi2223 under pressure,~136,~36 GPa (DAC),two-step pressure enhancement; inner-plane underdoping,R19,medium
+Cuprate,Hg1223,133-135,fluorinated Hg1223,~138,fluorination,166 K at 23 GPa reported for fluorinated sample,R22;R23,medium
+Cuprate,Hg1223,133-135,Hg1223 under pressure,~164,~30 GPa,,R21,high
+Cuprate,Hg1223,133-135,Hg1223 after pressure-quench (PQP),139-151 (ambient),quench at 4.2 K from 10-30 GPa,preprint; retention degrades above ~200 K; not yet independently reproduced,R24,medium
+Cuprate,La2CuO4,AF insulator,La2CuO4+delta (interstitial O),~40-45,electrochemical / ozone / high-P O2,staged interstitial oxygen,R25,medium
+TMD,2H-NbSe2,7.2,organic-cation intercalated NbSe2 (TPA/TBA/THA),<= 7.2 (suppressed or ~unchanged),electrochemical,electron doping lowers Tc; CDW enhanced; Ising-like Hc2,R61,medium
+TMD,2H-TaS2,0.8,TaS2(pyridine)1/2,~3.5,solution (weeks),classic organic intercalate,R26,high
+TMD,2H-TaS2,0.8,(CTA)xTaS2,up to 3.7 (dome),electrochemical,,R27,medium
+TMD,2H-TaS2,0.8,LixTaS2 (bulk),~3.3,chemical lithiation,,R29,medium
+TMD,2H-TaS2,0.8,Ax(H2O)y / organic co-intercalated TaS2,up to 4.6,soft chemistry,best reported intercalated 2H-TaS2 found in this survey,R28,medium
+TMD,2H-TaS2,0.8,(BaS)1/3TaS2,3.1 (zero resistance),solid state,chain intercalant; Ising,R30,medium
+TMD,2H-TaS2,0.8,2H-TaS2 under pressure,~9,DAC,,R26,medium
+TMD,2H-MoS2,non-SC semiconductor,AxMoS2 (A=K/Rb/Cs/Na),up to ~6.9,liquid NH3 + alkali,bulk benchmark for MoS2,R31,high
+TMD,2H-MoS2,non-SC,gated MoS2 (EDLT),~10.8,ionic-liquid gating,surface 2D electron gas; not bulk,R32,high
+TMD,2M-WS2,n/a,2M-WS2 (from KxWS2 by oxidative deintercalation),~8.8,aqueous oxidative deintercalation,highest ambient Tc among bulk TMD polytypes at time of report,R33,high
+TMD,1T-SnSe2,non-SC,SnSe2{CoCp2}0.3,~6.1,solution intercalation of cobaltocene,metallocene precedent,R34,high
+TMD,1T-SnSe2,non-SC,Li/THF co-intercalated SnSe2,~7.6,soft chemistry,Tc tracks basal spacing; polar co-intercalants universally raise Tc,R35;R60,medium
+TMD,1T-TiSe2,non-SC (CDW),CuxTiSe2,~4.15 (x~0.08),solid state,,R36,high
+Chalcogenide,Bi2Se3,non-SC,CuxBi2Se3,~3.8,melt / electrochemical,,R37,high
+Nitride-halide,beta-HfNCl,band insulator,Li0.48(THF)yHfNCl,~25.5,n-BuLi + THF co-intercalation,co-intercalated solvent expands spacing,R38,high
+Nitride-halide,beta-ZrNCl,band insulator,LixZrNCl,~13-15,chemical lithiation / gating,,R39,high
+GIC,graphite,non-SC,CaC6,11.5 (15.1 at 7.5 GPa),vapour/alloy,alkaline-earth metal routes are CO2-incompatible,R40,high
